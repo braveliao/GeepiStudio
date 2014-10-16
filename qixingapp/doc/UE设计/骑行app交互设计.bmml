@@ -1,8 +1,8 @@
 <mockup version="1.0" skin="sketch" measuredW="1526" measuredH="1652" mockupW="1514" mockupH="1640">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="12" y="12" w="128" h="23" measuredW="105" measuredH="22" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="12" y="12" w="177" h="21" measuredW="132" measuredH="22" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>%u9A91%u884Capp%u4EA4%u4E92%u8BBE%u8BA1</text>
+        <text>%u9A91%u884Capp%u4EA4%u4E92%u8BBE%u8BA1%20v1.0</text>
       </controlProperties>
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="51" y="74" w="320" h="468" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
@@ -814,6 +814,11 @@
     <control controlID="172" controlTypeID="com.balsamiq.mockups::StickyNote" x="907" y="874" w="208" h="123" measuredW="109" measuredH="123" zOrder="172" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%u5217%u8868%u663E%u793A%u51E0%u4E2A%u83DC%u5355%u9009%u9879%uFF0C%u70B9%u51FB%u6BCF%u4E00%u9879%uFF0C%u8FDB%u5165%u4E0B%u7EA7%u83DC%u5355%u6216%u8005%u5C55%u5F00%u5217%u8868%u3002</text>
+      </controlProperties>
+    </control>
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::Button" x="942" y="1024" w="-1" h="-1" measuredW="50" measuredH="28" zOrder="173" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u6CE8%u9500</text>
       </controlProperties>
     </control>
   </controls>
