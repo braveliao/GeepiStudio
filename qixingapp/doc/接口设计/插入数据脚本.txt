@@ -1,0 +1,244 @@
+﻿数据库插入数据脚本
+user表
+
+insert into user values (
+'liaoyong',
+'liaoyong',
+'北极熊',
+'android4.3',
+'http://f.hiphotos.baidu.com/image/pic/item/3b87e950352ac65c25e17a42f9f2b21193138a1e.jpg',
+'dfddf-dfdfd',
+'ext1',
+'ext2');
+
+
+activity表
+
+insert into activity values (
+8,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+
+insert into activity values (
+9,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+insert into activity values (
+10,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+insert into activity values (
+11,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+insert into activity values (
+12,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+insert into activity values (
+13,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+insert into activity values (
+14,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+insert into activity values (
+15,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+
+insert into activity values (
+16,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+
+insert into activity values (
+17,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+
+insert into activity values (
+18,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+insert into activity values (
+19,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+
+insert into activity values (
+20,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+insert into activity values (
+21,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+insert into activity values (
+22,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);
+
+insert into activity values (
+23,
+'自行车健身训练方法有没有 简单易学的方法',
+1,
+'2014-07-17',
+'liaoyong',
+'非常自行车论坛',
+'http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'http://www.taopic.com/uploads/allimg/110902/2774-
+110Z2150R036.jpg;http://www.taopic.com/uploads/allimg/110902/2774-110Z2150R036.jpg',
+'行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方行车健身
+训练方法有没有 简单易学的方行车健身训练方法有没有 简单易学的方'
+);

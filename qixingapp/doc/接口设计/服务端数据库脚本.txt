@@ -1,0 +1,36 @@
+﻿数据库创表脚本
+
+
+CREATE TABLE `qixing`.`user` (
+  `id` VARCHAR(100) NOT NULL, `password` TEXT NULL,`nick` TEXT NULL,
+  `os` TEXT NULL,`faceurl` TEXT NULL, `token` TEXT NULL,
+  `ext1` TEXT NULL, `ext2` TEXT NULL,
+  PRIMARY KEY (`id`));
+
+
+
+CREATE TABLE `qixing`.`knowledge` (
+  `id` INT NOT NULL, `title` TEXT NULL,`type` INT NULL,
+  `createtime` TEXT NULL,`author` TEXT NULL, `source` TEXT NULL,
+  `thumb` TEXT NULL, `detailImages` TEXT NULL, `detailInfo` TEXT NULL,
+  PRIMARY KEY (`id`));
+
+
+CREATE TABLE `qixing`.`bbs` (
+  `id` INT NOT NULL, `title` TEXT NULL,`type` INT NULL,
+  `createtime` TEXT NULL,`author` TEXT NULL, `source` TEXT NULL,
+  `thumb` TEXT NULL, `detailImages` TEXT NULL, `detailInfo` TEXT NULL,
+  PRIMARY KEY (`id`));
+
+
+CREATE TABLE `qixing`.`comment` (
+  `id` INT NOT NULL, `content` TEXT NULL,`sourceId` INT NULL,
+  `createtime` TEXT NULL,`author` TEXT NULL,
+  PRIMARY KEY (`id`));
+
+
+CREATE TABLE `qixing`.`activity` (
+  `id` INT NOT NULL, `title` TEXT NULL,`type` INT NULL,
+  `createtime` TEXT NULL,`author` TEXT NULL, `source` TEXT NULL,
+  `thumb` TEXT NULL, `detailImages` TEXT NULL, `detailInfo` TEXT NULL,
+  PRIMARY KEY (`id`));
