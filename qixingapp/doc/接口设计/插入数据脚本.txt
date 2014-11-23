@@ -8,7 +8,7 @@ insert into user values (
 'android4.3',
 'http://f.hiphotos.baidu.com/image/pic/item/3b87e950352ac65c25e17a42f9f2b21193138a1e.jpg',
 'dfddf-dfdfd',
-'ext1',
+100.1,
 'ext2');
 
 
