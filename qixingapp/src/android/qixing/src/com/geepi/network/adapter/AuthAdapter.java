@@ -1,13 +1,9 @@
 package com.geepi.network.adapter;
 
 import java.util.HashMap;
-import java.util.jar.Attributes;
-import java.util.jar.Attributes.Name;
-
 import org.apache.http.Header;
 import org.apache.http.HttpStatus;
 import org.json.JSONArray;
-import org.json.JSONException;
 import org.json.JSONObject;
 
 import com.geepi.common.LogUtil;
