@@ -3,12 +3,12 @@ package com.geepi.common;
 
 public interface NameDef {
 	public final static String kResponseStatus = "status";
-	public final static String kUserName = "userid";
+	public final static String kUserName = "uid";
 	public final static String kPassWord = "password";
 	public final static String kResponseResult = "item";
 
 	//method 
-	public final static String kValMethodLogin = "/auth/login.json";
+	public final static String kValMethodLogin = "/user/login";
 
 
     
