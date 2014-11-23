@@ -1,4 +1,4 @@
-package com.wanxiao.network.adapter;
+package com.geepi.network.adapter;
 
 import java.util.HashMap;
 import java.util.jar.Attributes;

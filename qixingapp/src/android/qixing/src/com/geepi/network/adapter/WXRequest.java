@@ -1,4 +1,4 @@
-package com.wanxiao.network.adapter;
+package com.geepi.network.adapter;
 
 import com.geepi.network.AsyncHttpClient;
 import com.geepi.network.AsyncHttpResponseHandler;
