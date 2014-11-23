@@ -6,11 +6,20 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.geepi.qixing.MainActivity" >
+    tools:context=".MainActivity"
+    android:background="@android:color/white" >
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
-
+        <RelativeLayout
+        android:id="@+id/mediaPlayControlView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp" 
+         android:background="@android:color/black">
+    <Button 
+        android:id="@+id/btn_switch"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:text="横竖屏切换"
+        />
+            </RelativeLayout>
+    
 </RelativeLayout>
